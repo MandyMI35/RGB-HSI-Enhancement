@@ -1,9 +1,9 @@
 GNR 607 — Satellite Image Processing (RGB & HSI Component Enhancement)
 
 Created by-
-Mandakini Dalwee      23b0418
-Aman Khatri           23B3961
-Manvi Gupta           24B0697
+- Mandakini Dalwee      23b0418
+- Aman Khatri           23B3961
+- Manvi Gupta           24B0697
 
 
 A Streamlit app that applies seven types of component-level enhancements to a single RGB image. 
