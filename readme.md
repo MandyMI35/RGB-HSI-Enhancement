@@ -76,10 +76,9 @@ A copy is also saved inside the folder: `enhanced_output/enhanced_output.png`
 Suggested File Structure
 
 project-folder/
-│
-├─ app.py
-├─ enhanced_output/
-└─ README.txt
+- app.py
+-  enhanced_output/
+- README.txt
 
 
 
